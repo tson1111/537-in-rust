@@ -5,7 +5,7 @@ use std::fs::OpenOptions;
 use std::path::Path;
 use std::process;
 
-const FILENAME: &str = "/Users/congding/courses/537/ostep-projects/initial-kv/data.txt";
+const FILENAME: &str = "data.txt";
 
 const DELETE_MARKER: &str = "DELETED";
 
